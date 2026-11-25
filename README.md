@@ -1,4 +1,4 @@
-# brightwave-security-sql-investigation
+# Brightwave security sql investigation
 # Insider Risk, Data Access & Phishing Response Investigation (MySQL)
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL%208.0%2B-4479A1?style=flat&logo=mysql&logoColor=white)
